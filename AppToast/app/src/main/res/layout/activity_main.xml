@@ -13,7 +13,7 @@
             android:layout_height="wrap_content"
             android:text="Hello Toast!"
             android:textSize="25dp"
-            android:textColor="@color/biru"
+            android:textColor="@color/design_default_color_primary_dark"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
@@ -49,5 +49,4 @@
             android:background="@color/biru"
             android:textColor="@color/putih"
             android:layout_height="wrap_content"/>
-
 </LinearLayout>
