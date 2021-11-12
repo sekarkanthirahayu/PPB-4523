@@ -1,4 +1,3 @@
-
 package com.example.menumakanan;
 
 public class MenuMakanan {
