@@ -82,8 +82,8 @@ public class MainActivity extends AppCompatActivity {
         {
             JSONObject obj=jsonArray.getJSONObject(i);
             stok[i]= obj.getString("kode")+" "+
-                    obj.getString("nama_barang")+" "+
-                    obj.getString("harga");
+                     obj.getString("nama_barang")+" "+
+                     obj.getString("harga");
         }
         ArrayAdapter<String> arrrayAdapter=new ArrayAdapter<String>(this,R.layout.support_simple_spinner_dropdown_item,stok);
         listView.setAdapter(arrrayAdapter);
