@@ -1,11 +1,13 @@
 package com.example.firebaseupdate;
 
 public class Mahasiswa {
-
     private String nim;
     private String nama;
     private String key;
 
+    public String toPrint() {
+        return this.nim+" "+nama;
+    }
     public String getNim() {
         return nim;
     }
@@ -28,9 +30,5 @@ public class Mahasiswa {
 
     public void setKey(String key) {
         this.key = key;
-    }
-
-    public String toPrint() {
-        return toPrint();
     }
 }
