@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppSambongrejo</string>
+    <string name="title_activity_menu">Menu</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Menu</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="google_mtv_coord_zoom12">geo:37.422114,-122.086744?z=12</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tv_desc1">Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega. Biasanya ditambah kecap manis, bawang merah, bawang putih, asam jawa, lada dan bumbu-bumbu lainnya; seperti telur, ayam, dan kerupuk.</string>
+    <string name="tv_desc2">Ramen adalah masakan mi kuah Jepang yang berasal dari Tiongkok. Orang Jepang juga menyebut ramen sebagai chuka soba atau shina soba karena soba atau o-soba dalam bahasa Jepang sering juga berarti mi.</string>
+    <string name="tv_desc3">Ice cream adalah sebuah makanan beku dibuat dari produk susu seperti krim, digabungkan dengan perasa dan pemanis buatan ataupun alami. Campuran ini didinginkan dengan mengaduk sambil mengurangi suhunya untuk mencegah pembentukan kristal es besar.</string>
+    <string name="tv_desc4">Rice bowl merupakan jenis kuliner yang berasal dari Negeri Sakura Jepang. Di negara asalnya, makanan ini juga sering disebut donburi. Rice bowl biasanya terdiri dari nasi putih hangat dengan berbagai macam lauk di atasnya, seperti ikan, daging, dan sayur-sayuran.</string>
+    <string name="tv_desc5">Takoyaki adalah nama makanan berbentuk bola-bola kecil dengan diameter 3-5 cm yang dibuat dari adonan tepung terigu diisi potongan gurita di dalamnya.</string>
+    <string name="tv_desc6">Roti panggang merujuk kepada kepingan roti yang dibakar atau dipanggang dengan proses radiasi termal sehingga roti menjadi lebih kecoklatan dan garing. Warna kecoklatan adalah hasil dari reaksi Maillard mengubah rasa roti dan membuatnya lebih kering sehingga lebih mudah untuk menaburkan topping di atasnya.</string>
+</resources>
